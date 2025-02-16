@@ -1,2 +1,1 @@
-# dataworks-agent
-Tools in Data Science - Project I
+This is the first project for the course "Tools in Data Science" under the online BS degree of the IIT Madras. This project involves the development of an automation agent which can perform various tasks intended by the user. 
